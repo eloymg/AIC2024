@@ -1,0 +1,8 @@
+*.zip
+*.pdf
+*.txt
+doc/
+description/
+.vscode
+build/
+logs/
